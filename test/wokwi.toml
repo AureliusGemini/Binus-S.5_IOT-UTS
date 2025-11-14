@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+# This tells Wokwi to find the firmware built by the [env:wokwi]
+# CRITICAL: The path now points to the 'wokwi' build directory
+elf = "../.pio/build/wokwi/firmware.elf"
+firmware = "../.pio/build/wokwi/firmware.bin"
