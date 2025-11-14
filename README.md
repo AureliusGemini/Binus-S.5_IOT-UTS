@@ -1,2 +1,1 @@
-# Binus-S.5_IOT-UTS
-# Binus-S.5_IOT-UTS
+# Binus Smester 5 IOT - UTS
